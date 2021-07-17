@@ -1,30 +1,28 @@
 ---
-title: "Hidden topics in documents and other text analyses."
-subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
-date_end: "2021-01-13"
+title: "Hidden topics in documents and other text analyses"
+subtitle: "Invited talk at the ‘Data Fest Tbilisi’"
+excerpt: "I showed some text mining analyses in R, such as wordclouds and topic modeling, applied to tweets about the DataFest."
+date: 2020-12-16
+date_end: "2020-12-16"
 show_post_time: false
-event: "rstudio::global(2021)"
-event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+event: "DataFest Tbilisi"
+event_url: http://18.197.150.50/
+author: "Rocío Joo"
+location: "Virtual"
 draft: false
 # layout options: single, single-sidebar
 layout: single
-categories:
-- workshop
+
 links:
-- icon: door-open
+- icon: file-powerpoint
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: slides
+  url: https://rociojoo.github.io/talk-DataFestTbilisi2020/Presentation.html
+- icon: video
+  icon_pack: fas
+  name: video
+  url: https://www.youtube.com/watch?v=_ze2qvQNYnw
 ---
 
-{{< here >}}
-
-I'm really excited to give this talk! Stay tuned for video and slides.
+Sorry I cannot share the repo because I added private information there. But I
+can share codes by request.

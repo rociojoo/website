@@ -1,5 +1,5 @@
 ---
-title: Talks & Workshops
+title: Talks and workshops
 description: |
   Presentations with slides, videos and other material
 author: "Rocío Joo"
@@ -12,7 +12,7 @@ layout: list # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Talks & Workshops
+  title: Talks and workshops
   description: |
     Presentations with slides, videos and other material
     
