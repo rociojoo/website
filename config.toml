@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "Rocío Joo"
-  # orgLocal = "Anywhere"
+  orgLocal = "Anywhere"
   description = "A window to my life; mostly academic"
   #favicon = "/img/drum-set.png"
   logo = "/img/drum-set.png"
