@@ -28,8 +28,8 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Global Fishing Watch"
-  orgLocal = "Anywhere"
+  orgName = "Rocío Joo"
+  # orgLocal = "Anywhere"
   description = "A window to my life; mostly academic"
   #favicon = "/img/drum-set.png"
   logo = "/img/drum-set.png"
