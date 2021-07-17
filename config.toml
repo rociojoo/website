@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://rociojoo.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Personal website of Rocío Joo"
