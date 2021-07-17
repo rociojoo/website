@@ -5,7 +5,7 @@ description: "Data scientist, movement statistician, drummer/percussionist,
 feminist, citizen, and sarcastic human being."
 date: 2021-07-17T08:37:33-06:00
 images:
-  - img/Screenshot.png
+  - img/screenshot.png
 image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
