@@ -12,6 +12,10 @@ location: "Virtual"
 draft: false
 # layout options: single, single-sidebar
 layout: single
+tags:
+- movement ecology
+- text mining
+- R
 
 links:
 - icon: file-pdf

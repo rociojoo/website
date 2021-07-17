@@ -12,6 +12,9 @@ location: "Virtual"
 draft: false
 # layout options: single, single-sidebar
 layout: single
+tags:
+- text mining
+- R
 
 links:
 - icon: file-powerpoint

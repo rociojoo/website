@@ -13,7 +13,8 @@ location: "Virtual"
 draft: false
 # layout options: single, single-sidebar
 layout: single
-
+categories:
+- movement ecology
 links:
 - icon: file-pdf
   icon_pack: fas

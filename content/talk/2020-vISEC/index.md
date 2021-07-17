@@ -13,6 +13,10 @@ location: "Virtual"
 draft: false
 # layout options: single, single-sidebar
 layout: single
+tags:
+- R
+- tracking
+- movement
 
 links:
 - icon: file-pdf
