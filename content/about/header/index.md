@@ -11,7 +11,9 @@ headline: |
 Gracias por venir :)
 
 I'm a data scientist at the [Research Team](https://globalfishingwatch.org/research/) 
-of [Global Fishing Watch](https://globalfishingwatch.org/). I'm Peruvian :peru:
+of [Global Fishing Watch](https://globalfishingwatch.org/). 
+
+I'm Peruvian :peru:
 and I currently live in Mexico :mexico:. Studies and work took my life to France
 :fr: first and the US :us: later. The people I've met and the places I've visited 
 have made me the person I am today. 
@@ -45,7 +47,19 @@ rewards. Science is better when we work together.
 
 * **Music**. I listen to music the whole day and consider myself a
 drummer/percussionist in the making. I mute myself in calls because of my 
-frequent and random taping and beatboxing. 
+random taping and beatboxing. 
 
 
+## Selected publications
 
+  *   Joo, Boone, Clay, Patrick, Clusella-Trullas, Basille. Navigating through the R
+packages for movement. 2020. Journal of animal ecology 89 (247-267). https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13116
+
+  *   Joo, Etienne, Bez, Mahevas. Metrics for describing dyadic movement: a review. 2018. Movement ecology 6 (26). https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-018-0144-2
+
+  *   Joo, Bertrand, Tam and Fablet. Hidden Markov models: the best models for forager movements? 2013. PLOS ONE 8 (e71246). https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071246
+
+
+## CV
+
+For a full version of my CV, please click [here](cv/Curriculum_Vitae.pdf). 
