@@ -1,0 +1,220 @@
+---
+title: "Is watching a cooking show helping me become a better researcher?"
+subtitle: ""
+excerpt: "It’s either about food or about writing scientific papers. Your choice."
+date: 2019-12-30
+author: "Rocío Joo"
+draft: false
+# layout options: single, single-sidebar
+layout: single
+categories:
+- science
+- publications
+- food
+---
+
+
+```{r, eval=TRUE, echo = FALSE, out.width="75%", fig.cap="", fig.align='center', fig.alt="An image from Masterchef USA. Gordon Ramsay is holding the carcass of a fish. A contestant observes... horrified? At least intimidated."}
+knitr::include_graphics("img/masterchef.jpeg")
+```
+
+I know what you are thinking: WTF. I know, but the truth is that when watching
+masterchef contestants  -- UK season 10 in case you're wondering -- prepare
+their dishes, I couldn't help but find parallels with scientific writing. So I
+will write what I've learned about dishes and maybe you will, too, think about
+them as papers and their components, or maybe not, maybe you will just think
+about them as dishes and ingredients because cooking is great and food is
+amazing. And there's nothing wrong with thinking about food!
+
+
+## 1. Start with a plan
+
+Plan your dish before you start. You must have a vision, an idea of what your
+dish would look like in the end, what it would taste like, and with that in mind
+you can plan the different steps to get there.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="It's better if you write your plan down.", fig.align='center', fig.alt="An open notebook. In one page, it reads meal plan for this week. Then a question mark. There's a pen on the notebook. "}
+knitr::include_graphics("img/plan.jpeg")
+```
+
+## 2. Remember that you have a finite and pre-defined amount of time
+
+You have a deadline to deliver your dish, so your plan should be consistent with
+the time given, and be very aware of the time during the whole process. This
+could be a deadline to serve food to critics, or, in real life, to serve dinner
+to your guests --which is your own deadline since you're the one who fixed the
+time for dinner. Before the time is over, there has to be food on the plate.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Respect a deadline", fig.align='center', fig.alt="The upper part of a clock. It's written deadline below 12 o' clock. And it's almost 12. "}
+knitr::include_graphics("img/deadline.png")
+```
+
+
+## 3. Choose a star of the dish
+
+One element should be the star. And all of the others should work together to
+enhance it. They cannot compete with each other for stardom.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Chicken is the star here. No doubt.", fig.align='center', fig.alt="Dish prepared at MasterChef UK. A juicy piece of chicken, with crunchy skin. Mushrooms, corn and greens. A yellow and a brown sauce. Beautifully plated. "}
+knitr::include_graphics("img/stevens_chicken.jpg")
+```
+
+
+## 4. Every element on the plate should have its own personality
+
+Yes, there is a star. The star should shine not only with its own light, but
+with the light of all the other elements on the plate. This requires each
+element to be cooked in the best way possible to bring out all of its flavor and
+looks.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Can you imagine how tasty must be each element on the plate?", fig.align='center', fig.alt="Dessert prepared at MasterChef UK. Deconstructed ice cream cone. Beautifully plated. "}
+knitr::include_graphics("img/craigs_dessert2.jpg")
+```
+
+## 5. Everything has to come together
+
+Everything on the plate should make sense, so choose wisely. A dish should tell
+one story, have one message. All elements should work as a team and complement
+each other. And everything should be placed on the plate in a coherent way. If
+you have elements that are perfectly cooked but should not be there, don't be
+afraid to take them out if they are not working. They may be good for another
+dish, not this one.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Fish and chips. Posh version.", fig.align='center', fig.alt="Fish and chips at MasterChef UK. Battered fish pieces on one corner of the plate next to a piece of lime with cilantro. On the opposite corner, fried potatoes plated in a jenga style. The other two corners have cooked peas with tiny pieces of crunchy fish. Two sauces. "}
+knitr::include_graphics("img/fish_peas.jpeg")
+```
+
+## 6. Make a good sauce that connects everything in the plate
+
+In many cases -- maybe most cases, the dish is incomplete without a good sauce.
+The sauce is sometimes mistakenly neglected, though it is the glue that sticks
+everything together. It must have a perfect flavor, setting the tone of the
+dish. And perfect amount. Too little and the elements will not be linked enough.
+Too much and it will mask the elements you perfectly cooked.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="A creamy marron bisque does the job here.", fig.align='center', fig.alt="Shrimp and dark-green sparagus on a creamy marron bisque. MasterChef UK."}
+knitr::include_graphics("img/sauce.jpeg")
+```
+
+## 7. Execute everything as well as you can
+
+Pay attention to the details from the moment you start cooking until you finish
+plating. You've chosen a few elements that should be on the dish, so when you
+cook them pay real attention. Don't serve them undercooked, and don't serve them
+overcooked. Serve them perfectly cooked for the dish you're making. It is
+possible to screw things up under high pressure, but try to avoid having
+~~reviewers~~judges sending it back to the kitchen because they can't eat it.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Try to execute each element perfectly.", fig.align='center', fig.alt="Another great dessert from Craig (the previous dessert image was his too) at MasterChef UK. Ice cream in the foreground. Behind it, the thinnest slice of an apple as decoration, next to a donut. In the background, there seems to be one piece of caramel custard and a muffin. There's apple sauce. It looks like heaven. I'm hungry."}
+knitr::include_graphics("img/craigs_dessert.jpg")
+```
+
+## 8. Plating matters
+
+Presentation is nothing without great cooking, nonetheless it should not be
+disregarded. The presentation provides the first impression of your dish. The
+look of the plate attracts people, it starts exciting them, almost preparing
+them for your food. It is the first stage of the experience. Think about the
+order in which each element is plated, and in which areas you need to pour more
+sauce.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Octopus in the Desert. Central restaurant.", fig.align='center', fig.alt="Creation at Central, a restaurant in Lima, Peru, and rated in the world's top-10. Beautifully plated pieces of octopus, with hedgehog and starfish, and a redish sauce"}
+knitr::include_graphics("img/octopus-desert.jpeg")
+```
+
+## 9. Give an element of surprise
+
+The same ingredients can be available to everybody. And chefs have had training
+and experience, so they are not starting from zero or inventing the wheel; their
+ideas may share similarities. There are going to be cooking techniques or parts
+of the dishes that are known, common, expected. But be creative. Each product
+can be cooked in many different ways. Make your dish a unique experience. Make
+it bring a big unexpected hit of flavor. And worth going through the experience.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Beaufort, esprit d'un alpage. Jean Sulpice restaurant.", fig.align='center', fig.alt="Beaufort cheese. But it doesn't look like it. It looks like a creamy white object with flowers, small leaves and walnuts on it."}
+knitr::include_graphics("img/beaufort.jpeg")
+```
+
+## 10. Be true to yourself
+
+Let your dish express who you are. 
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Let your work express your unique take on things.", fig.align='center', fig.alt="Drawing of Picasso and Dali painting next to each other. They are both painting the same egg, but in such unique styles that you would not think that it's the same thing."}
+knitr::include_graphics("img/picasso-dali.jpeg")
+```
+
+
+## 11. Work hard and take risks as you go
+
+There is a lot of pressure. Try to cope with it without losing the joy in what
+you're doing. Let that joy push you and increase your level. Challenge yourself.
+Learn. Evolve. And, of course, there is a possibility that it won't work out.
+The execution could be flawed. Or the idea. It may be the end of your dish but
+not the end of the world.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Liquid nitrogen. That must be a challenge.", fig.align='center', fig.alt="A MasterChef contestant (can't remember which country) uses liquid nitrogen for her dish."}
+knitr::include_graphics("img/nitrogen.jpg")
+```
+
+
+## 12. Be a team player
+
+There will be many times when you'll have to cook with other people. Play your
+role whether if you're the chef or an assistant. Do your part. Cook for the
+team. Cook with the team. Do your best so that you all make a beautiful and
+delicious dish. And try to enjoy it.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Teamwork at Central.", fig.align='center', fig.alt="Central restaurant in Lima, Peru. Chefs are plating in series. In the forefront, Virgilio, the owner of Central, participating of the plating process"}
+knitr::include_graphics("img/central_teamwork.jpeg")
+```
+
+
+## 13. Be open to criticism
+
+Try to use criticism to improve your cooking. And be ready for divided opinions.
+Not everybody has to like everything in your dish, or like your idea. It's part
+of taking risks. Also, if there comes a time when you have to be the critic,
+remember you've been on the other side of the table.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Criticism can be hard, but try to use it to improve.", fig.align='center', fig.alt="Three critics at MasterChef UK reviewing a dessert."}
+knitr::include_graphics("img/critics.png")
+```
+
+## 14. Deal with failure
+
+If in the end a dish doesn't turn out like you wanted, or gets bad reviews, take
+a moment to try to fix it. If you can't, get up and cook again. Failure is part
+of life.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Failure happens. A lot.", fig.align='center', fig.alt="Drawing of a man wearing a suit and using a bow and arrow. He is aiming at a target. On the floor, around 20 arrows, one for each time he missed the target."}
+knitr::include_graphics("img/failure.jpeg")
+```
+
+## 15. Remember that your food can be inspiring
+
+It can make someone's day to have a very good meal. And a truly amazing dish
+does not only make people happy; it's inspirational.
+
+```{r, eval=TRUE, echo = FALSE, out.width="50%", fig.cap="Humid Green. Central restaurant. Sorbet course with sweet lime, caigua ice, cushuro edible algae balls and edible clay. For me, that's inspiring.", fig.align='center', fig.alt="Sorbet course at Central restaurant. Sweet lime, caigua ice, cushuro edible algae balls and edible clay. I actually tasted this one. A unique experience."}
+knitr::include_graphics("img/virgilio-cushuro.jpeg")
+```
+
+## The end
+
+If you managed to find all the parallels with scientific writing, you may think
+that all of these lessons on scientific writing are really obvious. It may be
+for many people. I just needed to watch masterchef to actually see them. And
+I'll try to apply this to my research. It doesn't mean that it will work out,
+but I'll do my best (number 14: deal with failure).
+
+While reading this post, you could have found parallels with other tasks in
+life. As a friend of mine said, "cooking is so universal that it'll teach you
+lessons for the rest of your life". With respect to actual cooking, this is way
+out of my league and I'm in no way trying to cook profesionally. It's still good
+to have these things in mind, though. And it's been a great excuse to write a
+blog post with pictures of amazing food.
+
+
+* I apologize for not giving credit to the authors of the images. I'll do better
+in future posts.
+
