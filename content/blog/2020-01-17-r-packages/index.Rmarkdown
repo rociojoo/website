@@ -1,7 +1,7 @@
 ---
-title: "CRAN Task View: Processing and Analysis of Tracking Data"
+title: "Navigating through the R packages for movement"
 subtitle: ""
-excerpt: "We created a CRAN Task View (CTV) on tracking packages. The blog post describes the CTV, how it will be updated and how anyone can contribute to it."
+excerpt: "I published a paper with the same title that reviews the R packages created to process or analyze tracking data. The blog post tells the story behind the paper and gives a brief overview of the paper."
 date: 2020-01-17
 author: "Rocío Joo"
 draft: false
@@ -10,10 +10,13 @@ layout: single
 categories:
 - R
 - movement
+- tracking
 ---
 
-We created a [CRAN Task View (CTV) on tracking packages](https://cran.r-project.org/web/views/Tracking.html). 
-The [blog post](https://mablab.org/post/tracking-ctv/) describes the CTV, how it
-will be updated and how anyone can contribute to it. It was published in the
-blog of Mablab website.
+I published a <a href=https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13116/>paper</a>
+with the same title that reviews the R packages created to process or analyze
+tracking data. The <a href=https://animalecologyinfocus.com/2020/01/17/navigating-through-the-r-packages-for-movement/>blog post</a> 
+tells the story behind the paper and gives a brief
+overview of the paper. It was published in the blog of Journal of Animal
+Ecology, Animal Ecology in Focus.
   
