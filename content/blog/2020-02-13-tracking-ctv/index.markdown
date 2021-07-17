@@ -10,6 +10,7 @@ layout: single
 categories:
 - R
 - movement
+- tracking
 ---
 
 We created a [CRAN Task View (CTV) on tracking packages](https://cran.r-project.org/web/views/Tracking.html). 
