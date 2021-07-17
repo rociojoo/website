@@ -29,9 +29,9 @@ enableEmoji = true
     
 [params]
   orgName = "Rocío Joo"
-  orgLocal = "Anywhere"
+  # orgLocal = "Anywhere"
   description = "A window to my life; mostly academic"
-  #favicon = "/img/drum-set.png"
+  favicon = "/img/favicon.ico"
   logo = "/img/drum-set.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  #sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/Screenshot.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "rocio_joo"
   
