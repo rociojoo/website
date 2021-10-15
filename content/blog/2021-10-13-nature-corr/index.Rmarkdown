@@ -13,10 +13,10 @@ categories:
 - R
 ---
 
-The organizing team of The R Conference [useR!2021](https://user2021.r-project.org/), 
+The organizing team of The R Conference [useR! 2021](https://user2021.r-project.org/), 
 wrote a correspondence advocating for the continuation of online conferences as means to remove barriers for inclusion. It was recently published in [Nature](https://www.nature.com/articles/d41586-021-02752-8).
 
-I'm copying the accepted version here:
+I'm copying the open access accepted version here:
 
 *The COVID pandemic forced us to embrace online conferences (see C. Woolston Nature 582, 135–136; 2020), which remove some of the barriers that disproportionately affect marginalized groups. These include the cost of registration, transport and accommodation, the logistics of long-distance travel, and discriminatory visa applications (H. J. Niner & S. N. Wassermann Front. Mar. Sci. 8, 638025; 2021; Gewin, V. Nature 569, 297–299; 2019).*
 
