@@ -24,7 +24,7 @@ I'm copying the open access accepted version here:
 
 *We urge conference organizers to keep their events online, even when the pandemic is over, or to use hybrid formats that offer the benefits of inclusiveness alongside in-person interactions. The online component should not be a consolation prize for those unable to attend in person, but a true conference experience.*
 
-*Rocío Joo, on behalf of the [useR!2021 organizing team](https://user2021.r-project.org/about/global-team/)*
+*Rocío Joo, on behalf of the [useR! 2021 organizing team](https://user2021.r-project.org/about/global-team/)*
 
 
 
