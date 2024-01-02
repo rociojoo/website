@@ -7,11 +7,7 @@ date_end: "2022-10-14"
 show_post_time: false
 event: "LatinR"
 event_url: https://latin-r.com/
-author: "Rocío Joo, Andrea Sánchez-Tapia, Sara Mortara, Yanina Bellini Saibene, 
-Heather Turner, Dorothea Hug Peter, Natalia Soledad Morandeira, Matthias Bannert, 
-Batool Almazrouq, Elizabeth Hare, Laura Ación, Juan Pablo Narváez-Gómez, 
-Marcela Alfaro Córdoba, Federico Marini, Rita Giordano, Silvia Canelón, 
-Anicet Ebou, Adithi Upadhya, Joselyn Chávez, Janani Ravi"
+author: "Rocío Joo, Andrea Sánchez-Tapia et al"
 location: "Virtual"
 draft: false
 # layout options: single, single-sidebar
