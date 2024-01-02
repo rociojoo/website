@@ -10,7 +10,7 @@ headline: |
 
 Gracias por venir :)
 
-I'm a data scientist at the [Research Team](https://globalfishingwatch.org/research/) 
+I'm a senior data scientist at the [Research Team](https://globalfishingwatch.org/research/) 
 of [Global Fishing Watch](https://globalfishingwatch.org/). 
 
 I'm Peruvian :peru:
@@ -45,12 +45,18 @@ fisheries scientists, oceanographers, engineers, data scientists, from different
 countries and cultures. Every experience has been challenging and full of
 rewards. Science is better when we work together.
 
-* **Music**. I listen to music the whole day and consider myself a
-drummer/percussionist in the making. I mute myself in calls because of my 
-random taping and beatboxing. 
+* **Music**. I listen to music and think about music most of the time. I love 
+playing percussion (mainly drums) and learning to play piano. I don't 
+remember song lyrics. I don't have much to show but if you're interested, send me
+a message on [IG](https://www.instagram.com/kaori_drummer/).
 
 
 ## Selected publications
+
+  *   Joo, Sánchez-Tapia, Mortara, Bellini Saibene, Turner, Hug Peter, Morandeira, 
+Bannert, Almazrouq, Hare, Ación, Narváez-Gómez, Alfaro Córdoba, Marini, Giordano, 
+Canelón, Ebou, Upadhya, Chávez, Ravi. Ten simple rules to host an inclusive conference. 2022. Plos Computational Biology 18 (e1010164). 
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010164
 
   *   Joo, Boone, Clay, Patrick, Clusella-Trullas, Basille. Navigating through the R
 packages for movement. 2020. Journal of animal ecology 89 (247-267). https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13116

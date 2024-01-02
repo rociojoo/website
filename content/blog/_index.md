@@ -1,7 +1,7 @@
 ---
 title: Random blog posts
 description: |
-  I’ll be publishing some random posts from the time to time.
+  I’ll be publishing some random posts from the time to time. Maybe.
 author: "Rocío Joo"
 show_post_thumbnail: true
 show_author_byline: true

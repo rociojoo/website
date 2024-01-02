@@ -5,9 +5,9 @@ number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  I had the pleasure to work as a global coordinator of the 
-  [useR!2021](https://user2021.r-project.org/) global and virtual conference.
-  Blog posts and more news about the conference soon.
+  Personally, I've been working on [music](https://youtu.be/Uo0xN-pG-zI). 
+  If you're interested in professional announcements, for now all I can say is that 
+  [we're hiring at GFW](https://globalfishingwatch.org/careers/) and publishing positions quite often. 
 show_outro: true
 outro: |
   The little drumset home icon at the top left corner was made by surang from 

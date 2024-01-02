@@ -1,6 +1,6 @@
 ---
 title: "Rocío Joo"
-subtitle: "Data scientist @ Global Fishing Watch"
+subtitle: "Senior data scientist @ Global Fishing Watch"
 description: "Data scientist, movement statistician, drummer/percussionist,
 feminist, citizen, and sarcastic human being."
 date: 2021-07-17T08:37:33-06:00
