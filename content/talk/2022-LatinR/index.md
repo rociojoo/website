@@ -16,7 +16,7 @@ location: "Virtual"
 draft: false
 # layout options: single, single-sidebar
 layout: single
-categories:
+tags:
 - DEI
 links:
 - icon: file-powerpoint
