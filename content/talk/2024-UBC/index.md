@@ -13,7 +13,7 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- movement ecology
+- fisheries, labor conditions
 links:
 - icon: video
   icon_pack: fas
