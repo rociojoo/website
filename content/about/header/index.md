@@ -34,14 +34,16 @@ Three things that define my work:
 movement. Be able to identify patterns in trajectory data; implement and develop
 tools to understand the drivers of movement. As a statistician, I am very much
 interested in models and equations, but I'm also interested in the applications:
-I want my research to be a contribution to the understanding of life. And to do
-something meaningful. In my list of publications and presentations, you'll find
+I want my research to be a contribution to the understanding of life and 
+improving life conditions if possible. 
+In my list of publications and presentations, you'll find
 studies related to fishing vessel, seabird and raccoon movement, as well as more
-general trajectometry studies. I also travel a lot. Way less with the pandemic. 
+general trajectometry studies. I also travel a lot. 
 
 * **Team work**. I value collaboration in science and in life. I've learned to
 work in multidisciplinary and interdisciplinary teams, with ecologists,
-fisheries scientists, oceanographers, engineers, data scientists, from different
+fisheries scientists, oceanographers, engineers, data scientists, lawyers, 
+project managers, communicators, from different
 countries and cultures. Every experience has been challenging and full of
 rewards. Science is better when we work together.
 
